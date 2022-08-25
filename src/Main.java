@@ -18,7 +18,7 @@ public class Main {
         int year = 0;
         for ( ;year <= 2122; year = year + 79) {
             if(year >= 1822)
-            {System.out.println(year);}
+            {System.out.println( year );}
         }
 
 
